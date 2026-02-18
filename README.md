@@ -113,6 +113,7 @@ npm run dev
 ## 🛠️ Comandos Disponibles
 
 ### Development
+
 ```bash
 npm run dev          # Servidor desarrollo (auto-port 3000-3006)
 npm run build        # Build para producción
@@ -120,6 +121,7 @@ npm run start        # Servidor producción
 ```
 
 ### Quality Assurance
+
 ```bash
 npm run test         # Tests con Jest
 npm run test:watch   # Tests en modo watch
@@ -129,6 +131,7 @@ npm run typecheck    # TypeScript check
 ```
 
 ### Skills Management
+
 ```bash
 # Crear nuevo skill
 python .claude/skills/skill-creator/scripts/init_skill.py my-skill
@@ -358,4 +361,5 @@ En tu dashboard de Vercel, añade:
 
 ---
 
+**Calculadora de gastos en diferentes plataformas**
 **Next.js + Claude Code Setup v1.0** | Built with AI-first development in mind 🤖
